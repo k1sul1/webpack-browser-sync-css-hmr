@@ -1,0 +1,29 @@
+{
+  "name": "webpack-browser-sync-css-hmr",
+  "description": "HMR for CSS files using Browsersync & Webpack.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian Nikkanen <hi@kisu.li>",
+  "keywords": [
+    "browser-sync",
+    "browsersync",
+    "webpack",
+    "plugin",
+    "css",
+    "hmr"
+  ],
+  "devDependencies": {
+    "standard": "latest"
+  },
+  "files": [
+    "client.js",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "browser-sync": "2"
+  }
+}

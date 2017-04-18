@@ -1,7 +1,7 @@
 {
   "name": "webpack-browser-sync-css-hmr",
   "description": "HMR for CSS files using Browsersync & Webpack.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Christian Nikkanen <hi@kisu.li>",
   "keywords": [
